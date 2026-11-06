@@ -12,5 +12,6 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Burn It!](https://github.com/quietbytehq/burn-it)**: make bootable USB drives from Linux and Windows ISO images.
 - **[Graphite Mail](https://github.com/quietbytehq/graphite-mail)**: offline Linux mail and calendar client for Microsoft 365.
 - **[Madrasa](https://github.com/quietbytehq/madrasa)**: a free school information system (pre-alpha, for testers).
+- **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
 
 More on the way. See everything at **[quietbytehq.uk](https://quietbytehq.uk)**.
