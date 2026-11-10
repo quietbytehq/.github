@@ -13,5 +13,7 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Graphite Mail](https://github.com/quietbytehq/graphite-mail)**: offline Linux mail and calendar client for Microsoft 365.
 - **[Madrasa](https://github.com/quietbytehq/madrasa)**: a free school information system (pre-alpha, for testers).
 - **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
+- **[SkyPop](https://github.com/quietbytehq/skypop)**: a Pang-inspired arcade game written in Rust.
+- **[Lobster Browser](https://github.com/quietbytehq/LoboBrowser)**: a fast, ad-free Firefox-based browser (first preview).
 
 More on the way. See everything at **[quietbytehq.uk](https://quietbytehq.uk)**.
