@@ -15,5 +15,6 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
 - **[SkyPop](https://github.com/quietbytehq/skypop)**: a Pang-inspired arcade game written in Rust.
 - **[Lobster Browser](https://github.com/quietbytehq/LoboBrowser)**: a fast, ad-free Firefox-based browser (first preview).
+- **[Teamux](https://github.com/quietbytehq/teamux)**: an unofficial Microsoft Teams desktop client for Linux with Wayland, PipeWire screen sharing and camera support (early preview).
 
 More on the way. See everything at **[quietbytehq.uk](https://quietbytehq.uk)**.
