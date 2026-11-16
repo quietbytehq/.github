@@ -11,11 +11,11 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Stingray](https://github.com/quietbytehq/stingray)**: a clean file manager with Google Drive, OneDrive, Dropbox and network drives built in.
 - **[Burn It!](https://github.com/quietbytehq/burn-it)**: make bootable USB drives from Linux and Windows ISO images.
 - **[Graphite Mail](https://github.com/quietbytehq/graphite-mail)**: offline Linux mail and calendar client for Microsoft 365.
-- **[Madrasa](https://github.com/quietbytehq/madrasa)**: a free school information system (pre-alpha, for testers).
+- **[Madrasa](https://github.com/quietbytehq/madrasa)**: a free school information system, offline-capable, with an Android parent app (alpha, for testers).
 - **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
-- **[SkyPop](https://github.com/quietbytehq/skypop)**: a Pang-inspired arcade game written in Rust.
+- **[SkyPop](https://github.com/quietbytehq/skypop)**: a colourful Pang-inspired arcade game for Linux and Windows, built with Godot.
 - **[The Last Pocket](https://github.com/quietbytehq/the-last-pocket)**: an offline Linux pool and snooker game with local two-player matches, a 48-rival AI championship, and mouse, keyboard and gamepad controls.
 - **[Lobster Browser](https://github.com/quietbytehq/LoboBrowser)**: a fast, ad-free Firefox-based browser (first preview).
-- **[Teamux](https://github.com/quietbytehq/teamux)**: an unofficial Microsoft Teams desktop client for Linux with Wayland, PipeWire screen sharing and camera support (early preview).
+- **[Teamux](https://github.com/quietbytehq/teamux)**: an unofficial Microsoft Teams desktop client for Linux with Wayland, PipeWire screen sharing, camera support and a video studio (early preview).
 
 More on the way. See everything at **[quietbytehq.uk](https://quietbytehq.uk)**.
