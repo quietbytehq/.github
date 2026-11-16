@@ -14,6 +14,7 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Madrasa](https://github.com/quietbytehq/madrasa)**: a free school information system (pre-alpha, for testers).
 - **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
 - **[SkyPop](https://github.com/quietbytehq/skypop)**: a Pang-inspired arcade game written in Rust.
+- **[The Last Pocket](https://github.com/quietbytehq/the-last-pocket)**: an offline Linux pool and snooker game with local two-player matches, a 48-rival AI championship, and mouse, keyboard and gamepad controls.
 - **[Lobster Browser](https://github.com/quietbytehq/LoboBrowser)**: a fast, ad-free Firefox-based browser (first preview).
 - **[Teamux](https://github.com/quietbytehq/teamux)**: an unofficial Microsoft Teams desktop client for Linux with Wayland, PipeWire screen sharing and camera support (early preview).
 
