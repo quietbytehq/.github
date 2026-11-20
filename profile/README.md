@@ -15,6 +15,7 @@ We make desktop software for Linux and Windows that is free to use, share and bu
 - **[Rabita](https://github.com/quietbytehq/rabita)**: join Linux desktops to an Active Directory domain with a friendly setup wizard (in development).
 - **[SkyPop](https://github.com/quietbytehq/skypop)**: a colourful Pang-inspired arcade game for Linux and Windows, built with Godot.
 - **[The Last Pocket](https://github.com/quietbytehq/the-last-pocket)**: an offline Linux pool and snooker game with local two-player matches, a 48-rival AI championship, and mouse, keyboard and gamepad controls.
+- **[Nudge](https://github.com/quietbytehq/nudge)**: a 3D arcade pinball game for Linux and Windows with two tables, Cosmic Drift and Paradise Bay, and a [global top 100](https://nudge.quietbytehq.uk).
 - **[Lobster Browser](https://github.com/quietbytehq/LoboBrowser)**: a fast, ad-free Firefox-based browser (first preview).
 - **[Teamux](https://github.com/quietbytehq/teamux)**: an unofficial Microsoft Teams desktop client for Linux with Wayland, PipeWire screen sharing, camera support and a video studio (early preview).
 
